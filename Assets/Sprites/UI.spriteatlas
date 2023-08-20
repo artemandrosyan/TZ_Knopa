@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3022788d053c6624a976190a97bb114b, type: 3}
+    - {fileID: 2800000, guid: 25fb79e0fa9ecf7449fb8b95fd00808f, type: 3}
+    - {fileID: 2800000, guid: 9db522d721813544689836cfcf7685c6, type: 3}
+    - {fileID: 2800000, guid: 77ff87eccf477054f9a630be274c3fd7, type: 3}
+    - {fileID: 2800000, guid: c5a5fc021a48d09408bbd388752db9ce, type: 3}
+    - {fileID: 2800000, guid: ce216f92c83faef4e8fd434dc46d8622, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 25fb79e0fa9ecf7449fb8b95fd00808f, type: 3}
+  - {fileID: 21300000, guid: c5a5fc021a48d09408bbd388752db9ce, type: 3}
+  - {fileID: 21300000, guid: ce216f92c83faef4e8fd434dc46d8622, type: 3}
+  - {fileID: 21300000, guid: 9db522d721813544689836cfcf7685c6, type: 3}
+  - {fileID: 21300000, guid: 77ff87eccf477054f9a630be274c3fd7, type: 3}
+  - {fileID: 21300000, guid: 3022788d053c6624a976190a97bb114b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Play_ActionText_Frame_Red
+  - Slider11_Fill_Blue
+  - Slider11_Fill_Yellow
+  - Play_Skill_0
+  - Play_Skill_Bg_Frame
+  - Background_09_Purple3_GlowTop
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
